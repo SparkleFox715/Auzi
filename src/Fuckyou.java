@@ -1,6 +1,6 @@
 
 public class Fuckyou {
 	public static void main(String[]args) {
-		System.out.println("Fuckyou");
+		System.out.println("FuckyouKhang");
 	}
 }
